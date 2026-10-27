@@ -1,3 +1,5 @@
+hecho por: Alejandro Gaviria y Victoria
+
 Actividad: tres cupos, ocho estudiantes
 
 En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
